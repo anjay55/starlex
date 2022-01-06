@@ -1,0 +1,56 @@
+{
+   "api_id": "xxxxxxxxxxxxxxxxxxxxxx",
+   "api_hash":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "user_agent":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "leave":{
+     "Turn": "on",
+     "leave_status": 100
+  },
+   "Turn_group":{
+	 "status":"off"},
+   "Turn_private":{
+     "Status":"off"
+  },
+   "BOT": "xxxxxxxxxxxxxxxxxxxxx",
+   "Normal_join": {
+	  "Status": "inactive",
+	  "time": 3.3,
+	  "reff": "xxxxxxxxxxxxxxxxxxxxx",
+	  "join": "xxxxxxxxxxxxxxxxxxxxx"},
+   "Button_join": {
+      "Status": "inactive",
+      "time": 3,
+      "find": "xxxxxxxxxxxxxxxxxxxxx",
+      "reff": "xxxxxxxxxxxxxxxxxxxxx"
+  },
+   "Send_choice": {
+      "Status": "off",
+      "time": 4,
+      "option1": "xxxxxxxxxxxx",
+      "option2": "",
+      "option3": "",
+      "option4": "",
+      "option5": ""
+  },
+   "Clicker": {
+      "Status[off/single/double]": "off",
+      "time": 1.8,
+      "click": "0",
+      "find": "xxxxxxxxxxxxxxxxxxx",
+      "send(yes/no)": "no",
+      "click_obj": "xxxxxxxxxxxxxxxxxx"
+  },
+  "Maths": {
+     "Status": "on",
+     "server[1]":"1",
+     "time": 3.5,
+     "inject": "xxxxxxxxx|xxxxxxxxx",
+     "find": "xxxxxxxx",
+     "send(yes/no)": "no",
+     "send_obj": "xxxxxxxxxxxx"
+  },
+   "final_obj": {
+      "Status": "off",
+      "option_obj": "xxxxxxxxxxxx"
+  }
+}
